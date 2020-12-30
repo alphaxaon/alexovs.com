@@ -69,7 +69,7 @@
         </b-container>
 
         <footer>
-            © Alex Ovsyannikov 2020
+            © Alex Ovsyannikov {{ new Date().getFullYear() }}
         </footer>
     </div>
 </template>
