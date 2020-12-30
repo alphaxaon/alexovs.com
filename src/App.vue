@@ -61,7 +61,8 @@
                         <h4>Other Places I Hang Around (Sometimes)</h4>
                         <nav>
                             <span><a target="_blank" href="https://twitter.com/alphaxaon">Twitter</a></span> 
-                            <span><a target="_blank" href="https://github.com/alphaxaon">GitHub</a></span>
+                            <span><a target="_blank" href="https://github.com/alphaxaon">GitHub</a></span> 
+                            <span><a target="_blank" href="https://linkedin.com/in/alex-ovsyannikov">LinkedIn</a></span>
                         </nav>
                     </aside>
                 </b-col>
