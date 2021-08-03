@@ -13,7 +13,7 @@
                 <b-col xl="9" lg="9" md="12" sm="12" xs="12">
                     <article>
                         <p class="lead-paragraph" itemprop="description">
-                            Tulsa-based software developer. I love creating fluid backend & frontend applications. I also dabble in game dev. Check out some of my experiments on <a target="_blank" href="https://github.com/alphaxaon">GitHub</a>.
+                            Tulsa-based software developer. I love creating fluid frontend & backend applications. I also dabble in game development. View my <a target="_blank" href="https://linkedin.com/in/alex-ovsyannikov">LinkedIn</a> profile, or check out some of my experiments on <a target="_blank" href="https://github.com/alphaxaon">GitHub</a>.
                         </p>
                     </article>
 
@@ -60,9 +60,9 @@
                     <aside>
                         <h4>Other Places I Hang Around (Sometimes)</h4>
                         <nav>
-                            <span><a target="_blank" href="https://twitter.com/alphaxaon">Twitter</a></span> 
+                            <span><a target="_blank" href="https://linkedin.com/in/alex-ovsyannikov">LinkedIn</a></span> 
                             <span><a target="_blank" href="https://github.com/alphaxaon">GitHub</a></span> 
-                            <span><a target="_blank" href="https://linkedin.com/in/alex-ovsyannikov">LinkedIn</a></span>
+                            <span><a target="_blank" href="https://twitter.com/alphaxaon">Twitter</a></span>
                         </nav>
                     </aside>
                 </b-col>
